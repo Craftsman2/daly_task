@@ -103,20 +103,12 @@ $storageError = !empty($GLOBALS['TASKS_STORAGE_ERROR']);
                     <h2 class="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2 px-3">Вечером:</h2>
                     <ul class="space-y-1">
                         <li class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-50 transition-colors border border-transparent hover:border-gray-200">
-                            <input type="checkbox" data-id="task-10" class="task-checkbox w-5 h-5 text-indigo-600 rounded focus:ring-indigo-500 cursor-pointer">
-                            <span class="task-text text-gray-700 text-lg select-none cursor-pointer">Финастерид</span>
-                        </li>
-                        <li class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-50 transition-colors border border-transparent hover:border-gray-200">
                             <input type="checkbox" data-id="task-11" class="task-checkbox w-5 h-5 text-indigo-600 rounded focus:ring-indigo-500 cursor-pointer">
                             <span class="task-text text-gray-700 text-lg select-none cursor-pointer">Протеин</span>
                         </li>
 						<li class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-50 transition-colors border border-transparent hover:border-gray-200">
                             <input type="checkbox" data-id="task-12" class="task-checkbox w-5 h-5 text-indigo-600 rounded focus:ring-indigo-500 cursor-pointer">
                             <span class="task-text text-gray-700 text-lg select-none cursor-pointer">Миноксидил</span>
-                        </li>
-						<li class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-50 transition-colors border border-transparent hover:border-gray-200">
-                            <input type="checkbox" data-id="task-13" class="task-checkbox w-5 h-5 text-indigo-600 rounded focus:ring-indigo-500 cursor-pointer">
-                            <span class="task-text text-gray-700 text-lg select-none cursor-pointer">Протеин</span>
                         </li>
 						<li class="flex items-start gap-3 p-2 rounded-lg hover:bg-gray-50 transition-colors border border-transparent hover:border-gray-200">
                             <input type="checkbox" data-id="task-14" class="task-checkbox mt-1.5 w-5 h-5 text-indigo-600 rounded focus:ring-indigo-500 cursor-pointer">
